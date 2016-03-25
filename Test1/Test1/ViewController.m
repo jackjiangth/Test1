@@ -22,7 +22,7 @@
     
     NSLog(@"2ooooo");
     
-    NSLog(@"3yyyyyy");
+    NSLog(@"3yyy");
     
     NSLog(@"www");
     
